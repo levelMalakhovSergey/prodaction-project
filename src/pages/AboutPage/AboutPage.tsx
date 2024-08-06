@@ -1,11 +1,9 @@
 import React from 'react';
 
-const AboutPage = () => {
-    return (
-        <div>
-            ABOUT PAGE
-        </div>
-    );
-};
+const AboutPage = () => (
+    <div>
+        ABOUT PAGE
+    </div>
+);
 
 export default AboutPage;
